@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is E69F-5089
+
+ Directory of C:\Users\MAHALAX\OneDrive - Capgemini\Documents\OneDrive - Capgemini\Desktop\MyProject
+
+18-12-2021  12:56    <DIR>          .
+18-12-2021  12:56    <DIR>          ..
+18-12-2021  12:56                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  425,175,457,792 bytes free
